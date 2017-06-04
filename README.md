@@ -17,3 +17,5 @@
 Gradient boosting with some features dropped.
 
 ### Result
+
+0.065 mean absolute error, top 80% LB

@@ -9,3 +9,11 @@
 - seaborn
 - pandas
 - matplotlib
+- sklearn
+- xgboost
+
+### Algorithm
+
+Gradient boosting with some features dropped.
+
+### Result

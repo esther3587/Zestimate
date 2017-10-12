@@ -15,9 +15,13 @@
 ### Algorithm
 
 First remove outliers.
-Gradient boosting with some unrelated features dropped.
-Use L1 and L2 regularization and subsample method to reduce overfitting.
+Gradient boosting (XGboost) with some unrelated features dropped.
+Use L1 and L2 regularization and sub-sample method to reduce overfitting.
 
 ### Result
 
-0.06463 mean absolute error, top 46% LB
+0.06463 mean absolute error, top 46% on Kaggle leaderboard.
+
+### Reference
+
+[Kaggle](https://www.kaggle.com/c/zillow-prize-1)

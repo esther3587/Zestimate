@@ -14,8 +14,10 @@
 
 ### Algorithm
 
-Gradient boosting with some features dropped.
+First remove outliers.
+Gradient boosting with some unrelated features dropped.
+Use L1 and L2 regularization and subsample method to reduce overfitting.
 
 ### Result
 
-0.065 mean absolute error, top 80% LB
+0.06465 mean absolute error, top 49% LB

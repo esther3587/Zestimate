@@ -20,4 +20,4 @@ Use L1 and L2 regularization and subsample method to reduce overfitting.
 
 ### Result
 
-0.06465 mean absolute error, top 49% LB
+0.06463 mean absolute error, top 46% LB
